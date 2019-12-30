@@ -1,0 +1,15 @@
+<script src="{{asset('assets/js/jquery.min.js')}}"></script>
+<script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/js/nifty.min.js')}}"></script>
+<script src="{{asset('assets/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js')}}"></script>
+<script src="{{asset('assets/js/demo/form-text-editor.js')}}"></script>
+<script src="{{asset('assets/plugins/summernote/summernote.min.js')}}"></script>
+<script src="{{asset('assets/plugins/datatables/media/js/jquery.dataTables.js')}}"></script>
+<script src="{{asset('assets/plugins/datatables/media/js/dataTables.bootstrap.js')}}"></script>
+<script src="{{asset('assets/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js')}}"></script>
+<script src="{{asset('assets/js/demo/tables-datatables.js')}}"></script>
+<script src="{{asset('assets/plugins/select2/js/select2.min.js')}}"></script>
+<script src="{{asset('assets/js/demo/form-component.js')}}"></script>
+<script src="{{asset('assets/plugins/chosen/chosen.jquery.min.js')}}"></script>
+<script src="{{asset('assets/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js')}}"></script>
+<script src="{{asset('assets/plugins/bootstrap-select/bootstrap-select.min.js')}}"></script>
